@@ -3,3 +3,5 @@ Notes summing up each chapter and might have further explanation and/or extra qu
 
 Contents
 * [Lec2 - Threads](https://github.com/alexu-os/Notes/blob/main/Ch04.md)
+
+* [Lec3 - Uniprocessor Scheduling](https://github.com/alexu-os/Notes/blob/main/Ch09.md)
